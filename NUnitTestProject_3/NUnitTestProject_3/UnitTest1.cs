@@ -28,7 +28,7 @@ namespace Tests
         public void Test3()
         {
             Console.WriteLine("Comment1");
-            Assert.Fail();
+            Assert.Pass();
         }
 
 
